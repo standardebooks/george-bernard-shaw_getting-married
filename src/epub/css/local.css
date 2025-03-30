@@ -65,6 +65,25 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End core drama */
 
+/* Together dialogue */
+tr.together{
+	break-inside: avoid;
+}
+
+tr.together td{
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
+}
+
+tr.together td + td{
+	border-left: 1px solid;
+}
+
+[epub|type~="z3998:drama"] .together td:last-child{
+	padding-left: .5em;
+}
+/* End together dialogue */
+
 /* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
