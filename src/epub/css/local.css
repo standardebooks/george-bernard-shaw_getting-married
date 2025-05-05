@@ -82,6 +82,10 @@ tr.together td + td{
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
 }
+
+tr.together.noncontinued{
+	padding-top: .5em;
+}
 /* End together dialogue */
 
 /* Dramatis Personae */
