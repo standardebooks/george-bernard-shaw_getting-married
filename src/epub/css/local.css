@@ -110,3 +110,30 @@ tr.together td + td{
 	margin-top: 20vh;
 }
 /* End preface 2 spacing */
+
+/* Misc semantics */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+/* End misc semantics */
+
+/* Poem blockquote */
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+/* End poem blockquote */
