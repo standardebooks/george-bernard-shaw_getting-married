@@ -44,21 +44,23 @@
 		<meta property="term" refines="#subject-2">sh2008107246</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2010118451</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A satire about the institution of marriage set on the morning of a young couple’s wedding.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">On the morning they are meant to be wed, Edith Bridgenorth and Cecil Sykes are instead reading pamphlets about the dangers of marriage. Edith’s father, the Bishop of Chelsea, is writing a book on the history of marriage; in his kitchen, the rest of the family assembles and attempts to hash out a better alternative to marriage as it stands. Among them are Boxer, who is proposing to Lesbia for the tenth and final time, Reginald and Leo, who have faked an assault and affair so they may get divorced, Leo’s new love interest, who is having second thoughts about her, and Alderman Collins, who is catering the wedding as he has for all Edith’s sisters. One part family drama, one part satirical comedy about the institution of marriage, &lt;i&gt;Getting Married&lt;/i&gt; presented Shaw’s arguments for improved laws around marriage and divorce and includes an extensive preface containing his views on the future of marriage.</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;On the morning they are meant to be wed, Edith Bridgenorth and Cecil Sykes are instead reading pamphlets about the dangers of marriage. Edith’s father, the Bishop of Chelsea, is writing a book on the history of marriage; in his kitchen, the rest of the family assembles and attempts to hash out a better alternative to marriage as it stands. Among them are Boxer, who is proposing to Lesbia for the tenth and final time, Reginald and Leo, who have faked an assault and affair so they may get divorced, Leo’s new love interest, who is having second thoughts about her, and Alderman Collins, who is catering the wedding as he has for all Edith’s sisters. One part family drama, one part satirical comedy about the institution of marriage, &lt;i&gt;Getting Married&lt;/i&gt; presented &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; arguments for improved laws around marriage and divorce and includes an extensive preface containing his views on the future of marriage.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5604</dc:source>
 		<dc:source>https://archive.org/details/doctorsdilemmage0000bern</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Getting_Married</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_getting-married</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/standard-ebooks_george-bernard-shaw_getting-married</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79006533</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Frank Weston Benson</dc:contributor>
@@ -75,7 +77,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net/</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Asher Smith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Smith, Asher</meta>
